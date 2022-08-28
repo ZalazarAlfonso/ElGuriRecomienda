@@ -1,0 +1,5 @@
+A hacer:
+
+- Buscar y poner en el sitio una buena nav bar
+
+- Automatizar la escritura del html con js usando los document.write() (ref : https://www.w3schools.com/jsref/met_doc_write.asp)
